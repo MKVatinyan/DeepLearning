@@ -1,2 +1,6 @@
 Tutorials/data
 Tutorials/models
+data
+Tutorials/.ipynb_checkpoints
+.ipynb_checkpoints
+.DS_Store
