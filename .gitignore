@@ -1,2 +1,5 @@
-Tutorials/data
-Tutorials/models
+data/*
+models/*
+.DS_Store
+.ipynb_checkpoints/*
+
